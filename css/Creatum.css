@@ -1,0 +1,198 @@
+.Sub-caption {
+    text-align: center;
+}
+
+#intro {
+    color: aliceblue;
+    text-emphasis: bold;
+    padding: 10%;
+    background-image: url("../Images/fire.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+#login {
+    background-color: none;
+    border: #E10513;
+    color: #E10513;
+    border: 2px solid #E10513;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#signup {
+    background-color: #E10513;
+    border: none;
+    color: #ffffff;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#Designers {
+    background-color: #ffffff;
+    border: #E10513;
+    color: #E10513;
+    border: 2px solid #E10513;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#Organization {
+    background-color: #E10513;
+    border: #E10513;
+    color: #ffffff;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#c {
+    text-align: center;
+    text-emphasis: bold;
+    padding: 50px 0px 50px 0px;
+}
+
+#rectangle {
+    width: 70px;
+    height: 3px;
+    background: #E10513;
+    vertical-align: 30%;
+    margin: 1% 0% 1% 48%;
+}
+
+#VisitForum {
+    background-color: #E10513;
+    border: #E10513;
+    color: #ffffff;
+    padding: 12px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1% 0% 1% 48%;
+    cursor: pointer;
+}
+
+#row {
+    padding: 10px 0% 10px 0%;
+}
+
+.d {
+    text-align: center;
+    text-emphasis: bold;
+    margin: 10% 0% 10% 0%;
+    padding: 50px 0px 70px 0px;
+}
+
+#rectangle1 {
+    width: 70px;
+    height: 3px;
+    background: #E10513;
+    vertical-align: 30%;
+    margin: 1% 0% 1% 48%;
+}
+
+#Hire {
+    background-color: #E10513;
+    border: #E10513;
+    color: #ffffff;
+    padding: 12px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1% 0% 1% 48%;
+    cursor: pointer;
+}
+
+#Learn-More {
+    background-color: #E10513;
+    border: #E10513;
+    color: #ffffff;
+    padding: 12px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 1% 0% 1% 48%;
+    cursor: pointer;
+}
+
+h2 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+#categories {
+    direction: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card-body {
+    text-align: left;
+}
+
+#category {
+    padding-top: 9%;
+    direction: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Organizations {
+    background-color: #E10513;
+    border: #E10513;
+    color: #ffffff;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    align-items: center;
+    font-size: 14px;
+    margin: 10px 2px;
+    cursor: pointer;
+}
+
+.pricing {
+    padding-top: 2%;
+}
+
+ul {
+    font-size: 1em;
+}
+
+body {
+    max-width: 99%;
+    direction: flex;
+    align-items: center;
+}
+
+footer {
+    font-size: 1em;
+    max-width: 100%;
+}
+
+#d {
+    background-color: rgb(204, 203, 203);
+}
